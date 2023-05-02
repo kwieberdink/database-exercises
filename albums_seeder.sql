@@ -21,7 +21,7 @@ INSERT INTO albums (artist, name, release_date, sales, genre)
 ('The Beatles', '1', 2000, 23.2,'Rock'),
 ('Metallica', 'Metallica', 1991, 22.7,'Heavy metal'),
 ('Celine Dion', 'Let''s Talk About Love',1997,20.5, 'Pop'),
-('Bob Marley & The Wailers', 'Legend: The Best of Bob Marley & The Wailers', 1984,22.9, 'Reggae'),
+('Bob Marley & The Wailers'c, 'Legend: The Best of Bob Marley & The Wailers', 1984,22.9, 'Reggae'),
 ('Guns N'' Roses', 'Appetite for Destruction', 1987,22.8, 'Hard rock'),
 ('Bruce Springsteen', 'Born in the U.S.A.', 1984,22, 'Heartland rock'),
 ('ABBA', 'Gold: Greatest Hits', 1992, 21.6,'Pop, disco'),
